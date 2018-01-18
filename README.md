@@ -1,6 +1,8 @@
 # OurScheme-Interpreter
 A modified scheme interpreter written in C/C++
 
+## Getting Started
+
 ### Prerequisites
 
 Install GCC (GNU Compiler Collection) or any other IDE that can compile .cpp file on your system.
