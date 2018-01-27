@@ -1,5 +1,5 @@
 # OurScheme-Interpreter
-A modified scheme interpreter written in C/C++
+A modified scheme interpreter written in C++
 
 ## Getting Started
 
